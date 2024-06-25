@@ -19,7 +19,7 @@ global.location = "Nigeria, Lagos, Africa" //ur location
 global.botname = 'ᗰᗩᏀ€ᑎᎢᗩ' //ur bot name
 global.ownernumber = '2349125932419' //ur owner number
 global.ownername = 'ᗰᗩᏀ€ᑎᎢᗩ' //ur owner name
-global.websitex = "https://youtu.be/N3kyujoG3vk"
+global.websitex = "https://chat.whatsapp.com/BTTuDZX787lLk6JmIEE71a"
 global.wagc = "https://chat.whatsapp.com/BTTuDZX787lLk6JmIEE71a"
 global.themeemoji = '😈'
 global.wm = "Xeon Bot Inc."
@@ -32,7 +32,7 @@ global.premium = ["2349125932419"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v12'
+global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
