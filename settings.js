@@ -20,14 +20,14 @@ global.botname = 'ᗰᗩᏀ€ᑎᎢᗩ' //ur bot name
 global.ownernumber = '2348107839861' //ur owner number
 global.ownername = 'ᏞᗩᔑᕼᎩ🦅🖤' //ur owner name
 global.websitex = "https://chat.whatsapp.com/BTTuDZX787lLk6JmIEE71a"
-global.wagc = "https://chat.whatsapp.com/BTTuDZX787lLk6JmIEE71a"
+global.wagc = ""
 global.themeemoji = '🦅🖤'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "ᗰᗩᏀ€ᑎᎢᗩ\n\n+ᏞᗩᔑᕼᎩ🦅🖤"
 global.creator = "2348107839861@s.whatsapp.net"
-global.xprefix = ','
+global.xprefix = '.'
 global.premium = ["2348107839861"] // Premium User
 global.hituet = 0
 
@@ -36,7 +36,7 @@ global.typemenu = 'v8' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = true //show promote/demote message
